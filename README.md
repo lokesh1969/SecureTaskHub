@@ -21,7 +21,6 @@
 
 ## 📸 Platform Interface & Telemetry Output
 
-*(Replace these placeholder image paths with actual screenshots of your running application before pushing to GitHub. Save your screenshots in a `docs/` or `assets/` folder in your repository.)*
 
 <div align="center">
   <img src="docs\Screenshot 2026-05-21 123012.png" alt="SecureTaskHub Command Center Dashboard" width="800"/>
