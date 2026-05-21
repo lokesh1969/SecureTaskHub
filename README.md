@@ -19,6 +19,24 @@
 
 ---
 
+## 📸 Platform Interface & Telemetry Output
+
+*(Replace these placeholder image paths with actual screenshots of your running application before pushing to GitHub. Save your screenshots in a `docs/` or `assets/` folder in your repository.)*
+
+<div align="center">
+  <img src="docs\Screenshot 2026-05-21 123012.png" alt="SecureTaskHub Command Center Dashboard" width="800"/>
+  <p><i>Command Center Dashboard — Interactive Kanban Matrix with live websocket updates.</i></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="docs\image.png" alt="Role-Based Access Control Roster" width="800"/>
+  <p><i>Access Control Matrix — Level 5 Admin view for mutating clearance levels.</i></p>
+</div>
+
+---
+
 ## 🌟 Key Features &amp; Architectural Highlights
 
 ### 🛡️ Zero-Trust Session Architecture
